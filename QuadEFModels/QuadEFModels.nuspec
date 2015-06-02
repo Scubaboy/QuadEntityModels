@@ -13,6 +13,6 @@
     <tags>QuadApp</tags>
   </metadata>
   <files>
-    <file src="bin\$configuration$\QuadEFModles.dll" target="lib\net40\" />
+    <file src="bin\$configuration$\QuadEFModels.dll" target="lib\net40\" />
   </files>
 </package>
