@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace QuadEFModels.Entities
 {
-    class UpdateTrackerEntity : BaseEntity
+    public class UpdateTrackerEntity : BaseEntity
     {
         [Key]
         public virtual int ID { get; set; }

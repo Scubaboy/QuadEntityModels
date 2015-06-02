@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace QuadEFModels.Entities
 {
-    class ActiveQuadEntity : BaseEntity
+    public class ActiveQuadEntity : BaseEntity
     {
         public int ActiveQuadEntityId { get; set; }
 
